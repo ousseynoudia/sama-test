@@ -20,6 +20,7 @@ USE `gestcontacts`;
 --
 -- Structure de la table `contact`
 --
+--
 
 CREATE TABLE IF NOT EXISTS `contact` (
   `id_C` int(11) NOT NULL AUTO_INCREMENT,
